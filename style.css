@@ -89,11 +89,13 @@ p{
     text-align: center;
 }
 .text-box{
-    margin: 10px 450px;
+  width: 33%;
+  margin: auto;
 }
 .contact-box{
     background-color: #EC4D83;
-    margin: 20px 180px;
+    margin:auto;
+    width: 70%;
     padding: 30px;
     border-radius: 10px;
 }
