@@ -1,0 +1,116 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    height: 600px;
+    padding: 100px;
+}
+
+h1{
+   font-size: 40px;
+   margin: 0px;
+   padding: 0px;
+}
+h2{
+
+}
+
+p{
+    color: gray;
+    margin-bottom: 60px;
+    text-align: justify;
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.name-highlight{
+
+    color: #EC4D83;
+
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.half-width img{
+    width: 100%;
+
+}
+
+.link-btn{
+
+    text-decoration: none;
+    background-color:  #EC4D83;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+   
+}
+
+.hader-text{
+    text-align: center;
+    font-size: 50px;
+    margin: 60px;
+}
+.work-img img{
+    width: 28%;
+    float: left;
+    padding-left: 40px;
+}
+
+.contact{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.canter{
+    text-align: center;
+}
+.text-box{
+    margin: 10px 450px;
+}
+.contact-box{
+    background-color: #EC4D83;
+    margin: 20px 180px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.contact-box p{
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+.client-p{
+    color: black;
+}
+.text-box h4{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.gmail{
+    font-size: 30px;
+}
