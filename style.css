@@ -24,6 +24,7 @@ p{
 .header{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .name-highlight{
@@ -62,12 +63,13 @@ p{
 .biography{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-size: cover;
 }
 
 .latest-work{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
+    background-size: cover;
    
 }
 
@@ -85,7 +87,7 @@ p{
 .contact{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-size: cover;
 }
 
 .canter{
