@@ -9,13 +9,12 @@ section{
 }
 
 h1{
-   font-size: 40px;
+   font-size: 35px;
    margin: 0px;
    padding: 0px;
+   font-weight: 500;
 }
-h2{
 
-}
 
 p{
     color: gray;
@@ -29,6 +28,10 @@ p{
 
 .name-highlight{
 
+    font-size: 60px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
     color: #EC4D83;
 
 }
@@ -89,11 +92,13 @@ p{
     text-align: center;
 }
 .text-box{
-    margin: 10px 450px;
+  width: 33%;
+  margin: auto;
 }
 .contact-box{
     background-color: #EC4D83;
-    margin: 20px 180px;
+    margin:auto;
+    width: 70%;
     padding: 30px;
     border-radius: 10px;
 }
